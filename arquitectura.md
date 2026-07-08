@@ -1,6 +1,6 @@
 # Arquitectura
 
-![Diagrama de arquitectura](./arquitectura.png)
+![Diagrama de arquitectura](./images/arquitectura.svg)
 
 ## Diagrama
 
